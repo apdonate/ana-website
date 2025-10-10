@@ -1,0 +1,39 @@
+---
+title: "Ana Donate"
+page-layout: full
+description: "Emotion regulation, affect, cannabis use, and sleep—ESM and longitudinal methods."
+image: images/social-preview.jpg
+---
+
+
+
+::: {.hero}
+# Hi, I’m Ana — PhD Candidate at Aarhus University
+
+I study how **emotion regulation**, **affect**, **cannabis use**, and **sleep** interact in daily life using **ESM/EMA** and longitudinal methods.
+
+:::
+
+::: {.grid cols=3}
+:::: {.g-col-2}
+## What I work on
+
+- Coming soon.
+
+> _Vulnerabilities → Mechanisms → Consequences_ across papers, with open and reproducible workflows.
+
+[See my research →](research.qmd){.btn .btn-primary}
+::::
+
+:::: 
+## Latest
+
+- Coming soon.
+:::: 
+:::
+
+::: callout-tip
+**Open methods.** All analyses are scripted in R/Quarto with date-stamped pipelines and reproducible outputs.
+:::
+
+

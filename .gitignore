@@ -10,3 +10,6 @@ _site/
 _site/
 .Rproj.user/
 .DS_Store
+_site/
+.Rproj.user/
+.DS_Store

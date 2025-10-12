@@ -1,1 +1,11 @@
-/* css styles */
+/* footer icons */
+.page-footer a {
+  color: #6c757d;
+  text-decoration: none;
+  margin-left: 0.5rem;
+}
+
+.page-footer a:hover {
+  color: #2a7ae2;
+}
+

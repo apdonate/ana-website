@@ -8,9 +8,11 @@ title: "About"
 
 ## Research interests
 - Emotion regulation, affect dynamics
-- Cannabis use and sleep
+- Substance use disorders
+- Sleep
 - Intensive longitudinal (ESM/EMA), multilevel models, robust inference
+- Complexity Science
 
 
 ## Teaching & service
-- Short bullets.
+- To be updated.

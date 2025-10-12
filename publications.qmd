@@ -1,6 +1,12 @@
 ---
-title: "publications"
-author: "APGD"
+title: "Publications"
+bibliography: bib/papers.bib
+nocite: |
+  @*
+csl: https://www.zotero.org/styles/apa
 ---
 
-Coming soon.
+# Publications
+
+The list below is generated automatically from my BibTeX file (`papers.bib`).\
+To update it, simply edit or replace that file and re-render the site.

@@ -6,8 +6,4 @@ nocite: |
 csl: https://www.zotero.org/styles/apa
 ---
 
-## Under Preparation Manuscripts
-
--   Coming soon.
-
 ## Peer-Reviewed Manuscripts

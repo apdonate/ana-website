@@ -1,11 +1,26 @@
-/* footer icons */
-.page-footer a {
-  color: #6c757d;
-  text-decoration: none;
-  margin-left: 0.5rem;
+.page-footer {
+  border-top: 4px solid;
+  border-image: linear-gradient(to right, #FF2AC1, #3227FF, #9C2B2A) 1;
+  padding-top: 1rem;
 }
+
 
 .page-footer a:hover {
   color: #2a7ae2;
+}
+
+.hero {
+  text-align: center;
+  max-width: 800px;
+  margin: 0 auto 3rem auto;
+  line-height: 1.6;
+}
+
+:root {
+  --bs-body-bg: #FAFAFA;          /* Light background */
+  --bs-body-color: #222222;       /* Comfortable gray text */
+  --bs-link-color: #3227FF;       /* Royal blue links */
+  --bs-link-hover-color: #FF2AC1; /* Magenta hover */
+  --bs-primary: #9C2B2A;          /* Brick red buttons */
 }
 

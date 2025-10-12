@@ -1,22 +1,51 @@
+/* TEMP TEST: remove later */
+body { outline: 4px solid hotpink !important; }
+
+
 .page-footer {
   border-top: 4px solid;
   border-image: linear-gradient(to right, #FF2AC1, #3227FF, #9C2B2A) 1;
   padding-top: 1rem;
 }
 
-
-.hero {
-  text-align: center;
-  max-width: 800px;
-  margin: 0 auto 3rem auto;
-  line-height: 1.6;
-}
-
+/* ====== APD brand colors ====== */
 :root {
-  --bs-body-bg: #FAFAFA;          /* Light background */
-  --bs-body-color: #222222;       /* Comfortable gray text */
-  --bs-link-color: #3227FF;       /* Royal blue links */
-  --bs-link-hover-color: #FF2AC1; /* Magenta hover */
-  --bs-primary: #9C2B2A;          /* Brick red buttons */
+  --apd-bg: #FAFAFA;     /* light background (from logo base) */
+  --apd-text: #222222;   /* comfortable dark text */
+  --apd-link: #3227FF;   /* royal blue */
+  --apd-link-hover: #FF2AC1; /* magenta */
+  --apd-primary: #9C2B2A; /* brick red for buttons */
 }
 
+/* Page background + text */
+body {
+  background-color: var(--apd-bg) !important;
+  color: var(--apd-text) !important;
+}
+
+/* Links */
+a, .link-primary {
+  color: var(--apd-link) !important;
+  text-decoration-color: rgba(50,39,255,0.25);
+}
+a:hover, a:focus {
+  color: var(--apd-link-hover) !important;
+  text-decoration-color: rgba(255,42,193,0.35);
+}
+
+/* Primary buttons */
+.btn-primary, .btn.btn-primary, .btn-primary:visited {
+  background-color: var(--apd-primary) !important;
+  border-color: var(--apd-primary) !important;
+}
+.btn-primary:hover, .btn-primary:focus {
+  background-color: #812321 !important;  /* darker brick */
+  border-color: #812321 !important;
+}
+
+/* Footer gradient accent (optional) */
+.page-footer {
+  border-top: 4px solid;
+  border-image: linear-gradient(to right, #FF2AC1, #3227FF, #9C2B2A) 1;
+  padding-top: 1rem;
+}

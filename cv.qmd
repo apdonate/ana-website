@@ -1,6 +1,0 @@
----
-title: "cv"
-author: "APGD"
----
-
-Coming soon.

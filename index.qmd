@@ -1,17 +1,15 @@
 ---
-title: "PhD cand. Ana Donate"
+title: "Home"
 page-layout: full
 description: "Psychology, Clinical Science and longitudinal methods."
 image: images/social-preview.jpg
 ---
 
-
-
 ::: {.hero}
 # Hi,
 
-I study how **emotion regulation**, **affect**, **cannabis use**, and **sleep** interact in daily life using **ESM/EMA** and longitudinal methods. 
-
+I study how **emotion regulation**, **affect**, **cannabis use**, and **sleep**
+interact in daily life using **ESM/EMA** and longitudinal methods.
 :::
 
 ::: {.grid cols=3}
@@ -25,15 +23,8 @@ I study how **emotion regulation**, **affect**, **cannabis use**, and **sleep** 
 [See my research →](research.qmd){.btn .btn-primary}
 ::::
 
-:::: 
+:::: {.g-col-1}
 ## Latest
-
 - Coming soon.
-:::: 
+::::
 :::
-
-::: callout-tip
-**Open methods.** All analyses are scripted in R/Quarto with date-stamped pipelines and reproducible outputs.
-:::
-
-

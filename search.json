@@ -39,7 +39,7 @@
     "href": "index.html",
     "title": "Home",
     "section": "",
-    "text": "I am a Danish-based cognitive-behavioral therapist and researcher from São Paulo, Brazil.\nI am currently pursuing my PhD in Psychology and Behavioral Sciences at Aarhus University, where I study the links between emotion regulation, affect, and cannabis use in daily life.\nMy research interests lie in understanding how emotions, motivation, and context interact to influence substance use and well-being.\nCurrently, I work with intensive longitudinal (ESM/EMA) data to investigate within-person mechanisms that shape these processes.\nAlongside my research, I am a licensed psychologist and cognitive-behavioral therapist, passionate about evidence-based practice and the translation of research into clinical work."
+    "text": "I am a Denmark-based researcher and cognitive-behavioral therapist from São Paulo, Brazil. I am currently pursuing my PhD in Psychology and Behavioral Sciences at Aarhus University, where I study the links between emotion regulation, affect, and cannabis use in daily life."
   },
   {
     "objectID": "index.html#what-i-work-on",
@@ -60,27 +60,20 @@
     "href": "about.html",
     "title": "About",
     "section": "",
-    "text": "PhD Candidate, Department of Psychology and Behavioral Sciences\nAarhus University\nDownload full CV (PDF)\n\n\n\nEmotion regulation, affect dynamics\nCannabis use and sleep\nIntensive longitudinal (ESM/EMA), multilevel models, robust inference\n\n\n\n\n\nAdd a couple of highlights here, and link to the full list on the Publications page.\n\n\n\n\n\nShort bullets."
+    "text": "Download full CV (PDF)"
   },
   {
     "objectID": "about.html#research-interests",
     "href": "about.html#research-interests",
     "title": "About",
-    "section": "",
-    "text": "Emotion regulation, affect dynamics\nCannabis use and sleep\nIntensive longitudinal (ESM/EMA), multilevel models, robust inference"
-  },
-  {
-    "objectID": "about.html#selected-publications",
-    "href": "about.html#selected-publications",
-    "title": "About",
-    "section": "",
-    "text": "Add a couple of highlights here, and link to the full list on the Publications page."
+    "section": "Research interests",
+    "text": "Research interests\n\nEmotion regulation, affect dynamics\nCannabis use and sleep\nIntensive longitudinal (ESM/EMA), multilevel models, robust inference"
   },
   {
     "objectID": "about.html#teaching-service",
     "href": "about.html#teaching-service",
     "title": "About",
-    "section": "",
-    "text": "Short bullets."
+    "section": "Teaching & service",
+    "text": "Teaching & service\n\nShort bullets."
   }
 ]

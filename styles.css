@@ -17,12 +17,12 @@ main a:hover, main a:focus {
 
 /* ===== Primary buttons only (brick red, subtle hover) ===== */
 .btn-primary, .btn.btn-primary, .btn-primary:visited {
-  background: #ffffff  !important;
+  background: #ffffff !important;
   border-color: #9C2B2A !important;
 }
 .btn-primary:hover, .btn-primary:focus {
   background: #812321 !important;
-  border-color: #ffffff  !important;
+  border-color: #ffffff !important;
 }
 
 /* ===== Navbar: white bar with black links ===== */

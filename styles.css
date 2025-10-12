@@ -1,52 +1,47 @@
-/* ===== TEMP TEST (delete after you see it working) ===== */
-body { outline: 4px solid hotpink !important; }
-
-/* ========= APD brand palette ========= */
-:root{
-  --apd-bg:#FAFAFA;         /* page background */
-  --apd-text:#222222;       /* body text */
-  --apd-link:#3227FF;       /* royal blue */
-  --apd-link-hover:#FF2AC1; /* magenta */
-  --apd-primary:#9C2B2A;    /* brick red (buttons) */
+/* ===== Base: clean white site, readable black text ===== */
+html, body {
+  background: #ffffff !important;
+  color: #111111 !important;
 }
 
-/* Body */
-body{
-  background:var(--apd-bg) !important;
-  color:var(--apd-text) !important;
+/* ===== Content links: black → color on hover ===== */
+main a {
+  color: #111111 !important;                     /* normal look = black */
+  text-decoration: underline;
+  text-decoration-color: rgba(0,0,0,.25);
+}
+main a:hover, main a:focus {
+  color: #3227FF !important;                     /* hover = royal blue */
+  text-decoration-color: #FF2AC1;                /* underline tint = magenta */
 }
 
-/* Links (content) */
-a, .link-primary { color:var(--apd-link) !important; }
-a:hover, a:focus { color:var(--apd-link-hover) !important; }
-
-/* Buttons */
-.btn-primary, .btn.btn-primary, .btn-primary:visited{
-  background:var(--apd-primary) !important;
-  border-color:var(--apd-primary) !important;
+/* ===== Primary buttons only (brick red, subtle hover) ===== */
+.btn-primary, .btn.btn-primary, .btn-primary:visited {
+  background: #9C2B2A !important;
+  border-color: #9C2B2A !important;
 }
-.btn-primary:hover, .btn-primary:focus{
-  background:#812321 !important; /* darker */
-  border-color:#812321 !important;
+.btn-primary:hover, .btn-primary:focus {
+  background: #812321 !important;
+  border-color: #812321 !important;
 }
 
-/* Navbar (make it black with white text; hover = magenta) */
-.navbar, .navbar-dark{
-  background:#000 !important;
+/* ===== Navbar: white bar with black links ===== */
+.navbar {
+  background: #ffffff !important;
+  border-bottom: 1px solid #eeeeee;
 }
 .navbar .navbar-brand,
-.navbar .nav-link{
-  color:#fff !important;
+.navbar .nav-link {
+  color: #111111 !important;
 }
-.navbar .nav-link:hover{
-  color:var(--apd-link-hover) !important;
+.navbar .nav-link:hover {
+  color: #3227FF !important;                     /* blue on hover */
 }
 
-/* Footer gradient accent and icon color */
-.page-footer{
-  border-top:4px solid;
-  border-image:linear-gradient(to right,#FF2AC1,#3227FF,#9C2B2A) 1;
-  padding-top:1rem;
+/* ===== Footer: keep it simple for now ===== */
+.page-footer {
+  border-top: 1px solid #eeeeee;
+  padding-top: 0.75rem;
 }
-.page-footer a{ color:#6c757d; text-decoration:none; margin-left:.5rem; }
-.page-footer a:hover{ color:var(--apd-link) !important; }
+.page-footer a { color: #111111; }
+.page-footer a:hover { color: #3227FF; }

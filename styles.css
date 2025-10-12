@@ -1,51 +1,52 @@
-/* TEMP TEST: remove later */
+/* ===== TEMP TEST (delete after you see it working) ===== */
 body { outline: 4px solid hotpink !important; }
 
-
-.page-footer {
-  border-top: 4px solid;
-  border-image: linear-gradient(to right, #FF2AC1, #3227FF, #9C2B2A) 1;
-  padding-top: 1rem;
+/* ========= APD brand palette ========= */
+:root{
+  --apd-bg:#FAFAFA;         /* page background */
+  --apd-text:#222222;       /* body text */
+  --apd-link:#3227FF;       /* royal blue */
+  --apd-link-hover:#FF2AC1; /* magenta */
+  --apd-primary:#9C2B2A;    /* brick red (buttons) */
 }
 
-/* ====== APD brand colors ====== */
-:root {
-  --apd-bg: #FAFAFA;     /* light background (from logo base) */
-  --apd-text: #222222;   /* comfortable dark text */
-  --apd-link: #3227FF;   /* royal blue */
-  --apd-link-hover: #FF2AC1; /* magenta */
-  --apd-primary: #9C2B2A; /* brick red for buttons */
+/* Body */
+body{
+  background:var(--apd-bg) !important;
+  color:var(--apd-text) !important;
 }
 
-/* Page background + text */
-body {
-  background-color: var(--apd-bg) !important;
-  color: var(--apd-text) !important;
+/* Links (content) */
+a, .link-primary { color:var(--apd-link) !important; }
+a:hover, a:focus { color:var(--apd-link-hover) !important; }
+
+/* Buttons */
+.btn-primary, .btn.btn-primary, .btn-primary:visited{
+  background:var(--apd-primary) !important;
+  border-color:var(--apd-primary) !important;
+}
+.btn-primary:hover, .btn-primary:focus{
+  background:#812321 !important; /* darker */
+  border-color:#812321 !important;
 }
 
-/* Links */
-a, .link-primary {
-  color: var(--apd-link) !important;
-  text-decoration-color: rgba(50,39,255,0.25);
+/* Navbar (make it black with white text; hover = magenta) */
+.navbar, .navbar-dark{
+  background:#000 !important;
 }
-a:hover, a:focus {
-  color: var(--apd-link-hover) !important;
-  text-decoration-color: rgba(255,42,193,0.35);
+.navbar .navbar-brand,
+.navbar .nav-link{
+  color:#fff !important;
 }
-
-/* Primary buttons */
-.btn-primary, .btn.btn-primary, .btn-primary:visited {
-  background-color: var(--apd-primary) !important;
-  border-color: var(--apd-primary) !important;
-}
-.btn-primary:hover, .btn-primary:focus {
-  background-color: #812321 !important;  /* darker brick */
-  border-color: #812321 !important;
+.navbar .nav-link:hover{
+  color:var(--apd-link-hover) !important;
 }
 
-/* Footer gradient accent (optional) */
-.page-footer {
-  border-top: 4px solid;
-  border-image: linear-gradient(to right, #FF2AC1, #3227FF, #9C2B2A) 1;
-  padding-top: 1rem;
+/* Footer gradient accent and icon color */
+.page-footer{
+  border-top:4px solid;
+  border-image:linear-gradient(to right,#FF2AC1,#3227FF,#9C2B2A) 1;
+  padding-top:1rem;
 }
+.page-footer a{ color:#6c757d; text-decoration:none; margin-left:.5rem; }
+.page-footer a:hover{ color:var(--apd-link) !important; }

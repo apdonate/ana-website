@@ -5,19 +5,15 @@ format:
     allow-html: true
 ---
 
-
 ## Current affiliation
-
 Department of Psychology and Behavioral Sciences<br>
 Aarhus University<br>
 8000 Aarhus C<br>
-Denmark<br>
+Denmark
 
-
-## Inquiries? <br>
+## Inquiries
 **E-mail:** apd [dot] crf [at] psy [dot] au [dot] dk  
 
 **Google Scholar:** [scholar.google.com/citations?user=MC3Dc6UAAAAJ&hl=en](https://scholar.google.com/citations?user=MC3Dc6UAAAAJ&hl=en)  
 **ORCID:** [0000-0003-3048-3042](https://orcid.org/0000-0003-3048-3042)  
 **LinkedIn:** [linkedin.com/in/apdonate](https://www.linkedin.com/in/anapauladonate/)
-

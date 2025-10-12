@@ -6,10 +6,17 @@ image: images/social-preview.jpg
 ---
 
 ::: {.hero}
-# Hi,
 
-I study how **emotion regulation**, **affect**, **cannabis use**, and **sleep**
-interact in daily life using **ESM/EMA** and longitudinal methods.
+# Hello!
+
+I am a **Danish-based cognitive-behavioral therapist and researcher** from São Paulo, Brazil.  
+I am currently pursuing my PhD in **Psychology and Behavioral Sciences** at **Aarhus University**, where I study the links between **emotion regulation, affect, and cannabis use** in daily life.
+
+My research interests lie in understanding **how emotions, motivation, and context interact to influence substance use and well-being**.  
+Currently, I work with **intensive longitudinal (ESM/EMA) data** to investigate within-person mechanisms that shape these processes.
+
+Alongside my research, I am a **licensed psychologist** and **cognitive-behavioral therapist**, passionate about evidence-based practice and the translation of research into clinical work.
+
 :::
 
 ::: {.grid cols=3}

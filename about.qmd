@@ -1,20 +1,16 @@
 ---
 title: "About"
 ---
-# Ana Paula Gonçalves Donate
 
-PhD Candidate, Department of Psychology and Behavioral Sciences  
-Aarhus University
 
-[Download full CV (PDF)](files/Ana_Donate_CV.pdf){.btn .btn-primary}
+
+[Download full CV (PDF)](files/APGD_OCT_2025.pdf){.btn .btn-primary}
 
 ## Research interests
 - Emotion regulation, affect dynamics
 - Cannabis use and sleep
 - Intensive longitudinal (ESM/EMA), multilevel models, robust inference
 
-## Selected publications
-- Add a couple of highlights here, and link to the full list on the Publications page.
 
 ## Teaching & service
 - Short bullets.

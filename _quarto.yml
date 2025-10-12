@@ -3,12 +3,12 @@ project:
 
 website:
   title: "Ana Donate, PhD Candidate"
-  description: "Emotion regulation, affect, and cannabis use research"
+  description: "Bidirectional associations between affect and cannabis use"
   navbar:
     left:
       - text: "Home"
         href: index.qmd
-      - text: "Research"
+      - text: "About"
         href: research.qmd
       - text: "Publications"
         href: publications.qmd

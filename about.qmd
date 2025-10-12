@@ -13,6 +13,3 @@ title: "About"
 - Intensive longitudinal (ESM/EMA), multilevel models, robust inference
 - Complexity Science
 
-
-## Teaching & service
-- To be updated.

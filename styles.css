@@ -11,7 +11,7 @@ main a {
   text-decoration-color: rgba(0,0,0,.25);
 }
 main a:hover, main a:focus {
-  color: #3227FF !important;                     /* hover = royal blue */
+  color: #ffffff !important;                     /* hover = royal blue */
   text-decoration-color: #FF2AC1;                /* underline tint = magenta */
 }
 
@@ -35,7 +35,7 @@ main a:hover, main a:focus {
   color: #111111 !important;
 }
 .navbar .nav-link:hover {
-  color: #3227FF !important;                     /* blue on hover */
+  color: #812321 !important;                     /* blue on hover */
 }
 
 /* ===== Footer: keep it simple for now ===== */

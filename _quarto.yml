@@ -1,8 +1,9 @@
 project:
   type: website
+  output-dir: docs
 
 website:
-  title: "Ana Paula Gonçalves Donate"
+  title: "Ana Paula Goncalves Donate"
   navbar:
     left:
       - href: index.qmd
@@ -17,13 +18,9 @@ website:
         text: CV
       - href: contact.qmd
         text: Contact
-  page-footer:
-    center: "© Ana Paula Gonçalves Donate"
 
 format:
   html:
     theme: cosmo
     css: styles.css
     toc: false
-    smooth-scroll: true
-    link-external-newwindow: true

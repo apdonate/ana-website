@@ -10,4 +10,12 @@ csl: https://www.zotero.org/styles/apa
 
 ## Other academic outputs
 
+### PhD Dissertation
+
+Donate, A. P. G. (2026). *Affective Vulnerability and Health Correlates of Cannabis Use: Insights from Between- and Within-Person Approaches*. PhD Dissertation, Aarhus University, Denmark. [Download](../files/APGD_PhD_Dissertation_2026.pdf)
+
+### Preprints
+
+Donate, A. P. G. Cannabis Use, Affect, and Emotion Regulation in Daily Life: A 3-Week Experience Sampling Method Study in People Who Smoke Cannabis Almost Daily. *PsyArXiv Preprints*. https://osf.io/c74ur
+
 Additional publications and ongoing work will be updated here.

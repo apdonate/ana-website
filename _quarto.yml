@@ -2,33 +2,28 @@ project:
   type: website
 
 website:
-  title: "Ana Donate, PhD Candidate"
-  description: "Emotion regulation, affect, and cannabis use research"
+  title: "Ana Paula Gonçalves Donate"
   navbar:
     left:
-      - text: "Home"
-        href: index.qmd
-      - text: "About"
-        href: about.qmd
-      - text: "Research"
-        href: research.qmd
-      - text: "Publications"
-        href: publications.qmd
-      - text: "Contact"
-        href: contact.qmd
-    right:
-      - text: "CV (PDF)"
-        href: files/APGD_OCT_2025.pdf
-        target: _blank
-      - icon: linkedin
-        href: https://www.linkedin.com/in/anapauladonate/
-      - icon: orcid
-        href: https://orcid.org/0000-0003-3048-3042
-      - icon: mortarboard
-        href: https://scholar.google.com/citations?user=MC3Dc6UAAAAJ&hl=en
+      - href: index.qmd
+        text: Home
+      - href: about.qmd
+        text: About
+      - href: research.qmd
+        text: Research
+      - href: publications.qmd
+        text: Publications
+      - href: cv.qmd
+        text: CV
+      - href: contact.qmd
+        text: Contact
+  page-footer:
+    center: "© Ana Paula Gonçalves Donate"
 
 format:
   html:
-    theme: flatly
+    theme: cosmo
     css: styles.css
-
+    toc: false
+    smooth-scroll: true
+    link-external-newwindow: true

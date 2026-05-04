@@ -1,32 +1,59 @@
 ---
-title: "Home"
+title: ""
 page-layout: full
-description: "Psychology, Clinical Science and longitudinal methods."
+title-block: false
+description: "Clinical psychology, emotion regulation, and longitudinal methods"
 image: images/social-preview.jpg
 ---
 
 ::: {.hero}
 
-# Hello!
+:::: {.grid .hero-grid}
 
-I am a **Denmark-based researcher** and **cognitive-behavioral therapist** from São Paulo, Brazil.  I am currently pursuing my PhD in **Psychology and Behavioral Sciences** at **Aarhus University**, where I study the links between **emotion regulation, affect, and cannabis use** in daily life.
+::: {.g-col-7}
 
+# Clinical Psychology and Longitudinal Research
+
+I am a Denmark-based researcher and cognitive-behavioural therapist from São Paulo, Brazil. My work focuses on emotion regulation, affective processes, cannabis use, sleep, and intensive longitudinal methods.
+
+[See my research](research.qmd){.btn .btn-primary}
 
 :::
 
-::: {.grid cols=3}
-:::: {.g-col-2}
-## What I work on
+::: {.g-col-5}
 
-- Coming soon.
+![](images/Myself_Defense.jpg){.hero-photo}
 
-> _Vulnerabilities → Mechanisms → Consequences_.
+:::
 
-[See my research →](research.qmd){.btn .btn-primary}
 ::::
 
-:::: {.g-col-1}
+:::
+
+:::: {.grid}
+
+::: {.g-col-8}
+
+## Research focus
+
+My research examines how emotional and behavioural processes unfold in real life, with a particular focus on:
+
+- emotion regulation and affect dynamics
+- cannabis use and related health outcomes
+- sleep and mental health
+- intensive longitudinal methods (ESM/EMA)
+- reproducible quantitative research
+
+:::
+
+::: {.g-col-4}
+
 ## Latest
-- Coming soon.
-::::
+
+- PhD completed in Psychology and Behavioural Sciences at Aarhus University
+- Ongoing work on cannabis use, affect, emotion regulation, and sleep
+- Publications and current projects available on this website
+
 :::
+
+::::

@@ -1,7 +1,49 @@
 ---
-title: "research"
+title: "Research"
 ---
 
 # Research
 
-Coming soon.
+My research examines how **emotional processes**, **behaviour**, and **health outcomes** interact in daily life. I am particularly interested in understanding why some individuals are more vulnerable to problematic cannabis use, how affective states relate to use in real time, and how cannabis use is associated with outcomes such as **sleep** and **mental health**.
+
+## Core themes
+
+### Emotion regulation and vulnerability
+
+A central part of my work focuses on **emotion dysregulation** as a potential vulnerability factor in problematic cannabis use. I am interested in how difficulties in understanding, tolerating, and managing emotions may contribute to the development and maintenance of cannabis-related problems.
+
+### Affect and daily-life mechanisms
+
+Using **experience sampling methodology (ESM)**, I study how cannabis use and affect are linked within individuals across daily life. This work focuses on short-term emotional processes, including whether cannabis use is associated with changes in **positive affect**, **negative affect**, or both.
+
+### Cannabis use, sleep, and mental health
+
+Another line of my research explores the associations between cannabis use patterns and broader health outcomes, particularly **sleep quality** and **mental health symptoms**. I am interested in when cannabis use may be linked to perceived benefits, when it may be linked to poorer functioning, and how these patterns differ across individuals and product types.
+
+## Methodological approach
+
+My work combines:
+
+- cross-sectional and intensive longitudinal designs
+- experience sampling / ecological momentary assessment
+- multilevel and within-person modelling
+- robust and reproducible statistical workflows in R
+
+I am especially interested in research designs that move beyond static group averages and capture how psychological processes unfold over time and across contexts.
+
+## Current research profile
+
+My PhD work integrated three broad lines of inquiry:
+
+1. **Vulnerabilities**  
+   How emotion dysregulation relates to cannabis use severity and associated motives.
+
+2. **Mechanisms**  
+   How affect and cannabis use are linked in daily life within individuals.
+
+3. **Health outcomes**  
+   How cannabis use patterns relate to sleep quality and mental health.
+
+This overall framework can be summarised as:
+
+> *Vulnerabilities → Mechanisms → Health outcomes*

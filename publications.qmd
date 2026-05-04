@@ -6,4 +6,8 @@ nocite: |
 csl: https://www.zotero.org/styles/apa
 ---
 
-## Peer-Reviewed Manuscripts
+## Peer-reviewed manuscripts
+
+## Other academic outputs
+
+Additional publications and ongoing work will be updated here.

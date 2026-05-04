@@ -1,6 +1,46 @@
 ---
-title: "cv"
-author: "APGD"
+title: "CV"
+author: "Ana Paula Gonçalves Donate"
 ---
 
-Coming soon.
+[Download full CV (PDF)](files/APGD_OCT_2025.pdf){.btn .btn-primary}
+
+## Summary
+
+Clinical psychologist and researcher with expertise in **mental health**, **emotion regulation**, **cannabis use**, **sleep**, and **intensive longitudinal research**. Experienced in designing and conducting observational studies, managing complex datasets, and applying advanced quantitative methods to clinically relevant questions.
+
+## Education
+
+### PhD in Psychology and Behavioural Sciences  
+**Aarhus University**, Denmark  
+Completed 2026
+
+### MSc in Psychobiology  
+**Federal University of São Paulo (UNIFESP)**, Brazil
+
+### BSc in Psychology  
+**Universidade Presbiteriana Mackenzie**, Brazil
+
+## Research areas
+
+- Clinical psychology
+- Emotion regulation
+- Cannabis use and substance-related behaviours
+- Sleep and mental health
+- Experience sampling methodology (ESM/EMA)
+- Longitudinal and multilevel analysis
+- Reproducible research in R
+
+## Methods and tools
+
+- R
+- Multilevel modelling
+- Intensive longitudinal data analysis
+- Psychometrics
+- Robust statistical inference
+- Reproducible workflows
+- Scientific writing and reporting
+
+## Professional profile
+
+My work combines **clinical knowledge**, **quantitative research**, and **real-world behavioural data** to investigate psychological processes as they unfold in everyday life. I am especially interested in research that can bridge methodological rigour and practical relevance for mental health.

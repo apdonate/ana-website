@@ -2,15 +2,18 @@
 title: "About"
 ---
 
-[Download full CV (PDF)](files/APGD_OCT_2025.pdf){.btn .btn-primary}
-
 ## About me
 
 I am a **clinical psychologist**, **researcher**, and **cognitive-behavioural therapist** from São Paulo, Brazil. I recently completed my PhD in **Psychology and Behavioural Sciences** at **Aarhus University**, Denmark.
 
-My academic work sits at the intersection of **clinical psychology**, **mental health**, and **quantitative methods**. I study how affective and behavioural processes develop and fluctuate in real life, especially in relation to **emotion regulation**, **cannabis use**, **sleep**, and **mental health outcomes**.
+My academic work sits at the intersection of **clinical psychology**, **mental health**, and **quantitative methods**. I study how affective and behavioural processes develop and fluctuate in real life, especially in relation to emotion regulation, cannabis use, sleep, and mental health outcomes.
 
 I have a strong interest in combining **clinically relevant questions** with **rigorous longitudinal methods**, including **experience sampling methodology (ESM/EMA)**, multilevel modelling, and reproducible workflows in R.
+
+## Downloads
+
+- [Download CV (PDF)](files/APGD_OCT_2025.pdf){.btn .btn-primary}
+- [Download PhD Dissertation (PDF)](files/APGD_PhD_Dissertation_2026.pdf){.btn .btn-primary}
 
 ## Research interests
 
